@@ -1,0 +1,18 @@
+Xytech Workorder 1107
+
+Producer: Joan Jett
+Operator: John Doe 
+Job: Dirtfixing
+
+
+Location:
+/hpsans13/production/starwars/reel1/partA/1920x1080
+/hpsans12/production/starwars/reel1/VFX/Hydraulx
+/hpsans13/production/starwars/reel1/VFX/Framestore
+/hpsans14/production/starwars/reel1/VFX/AnimalLogic
+/hpsans13/production/starwars/reel1/partB/1920x1080
+/hpsans15/production/starwars/pickups/shot_1ab/1920x1080
+
+
+Notes:
+Please clean files noted per Colorist Tom Brady 
